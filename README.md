@@ -1,8 +1,40 @@
-# React + Vite
+# React Vite Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Objective
 
-Currently, two official plugins are available:
+This application allows users to manage employee records, including creating new employees, listing all employees, searching employees by ID, updating employee details, and deleting employees by ID.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requirements
+
+- Node.js and npm installed on your machine. You can download them from [Node.js](https://nodejs.org/).
+
+## Setup and Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone <repository_url>
+
+   ```
+
+2. **Navigate to the Project Directory**
+
+  ```bash
+  cd <project_directory>
+
+  ```
+
+3. **Install Dependencies**
+
+   ```bash
+   npm install
+
+   ```
+
+4. **Run the Application**
+
+   ```bash
+   npm start
+
+   ```
+
