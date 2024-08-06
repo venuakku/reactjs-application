@@ -26,13 +26,13 @@ const DeleteEmployee = () => {
         </p>
         <div className="flex justify-evenly">
           <button
-            className="px-4 py-2 w-28 bg-blue-500 text-white rounded-3xl hover:bg-blue-600"
+            className="px-4 py-2 w-28 bg-sky-500 text-white rounded-3xl hover:bg-sky-600"
             onClick={handleDelete}
           >
             Yes
           </button>
           <button
-            className="px-4 py-2 w-28 bg-blue-500 text-white rounded-3xl hover:bg-blue-600"
+            className="px-4 py-2 w-28 bg-sky-500 text-white rounded-3xl hover:bg-sky-600"
             onClick={() => navigate("/")}
           >
             No
